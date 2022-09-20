@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Shandilya</h1>
-<h3 align="center">A Code Reape from suburbs of India.</h3>
+<h3 align="center">A Code Reaper from suburbs of India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat" alt="legitshivam" /> </p>
 
