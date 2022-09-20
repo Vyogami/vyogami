@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat" alt="legitshivam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/legitshivam" target="blank"><img src="https://img.shields.io/twitter/follow/legitshivam?logo=twitter&style=for-the-badge" alt="legitshivam" /></a> </p>
-
 - 🔭 I’m currently working on [Debian Configurations](https://github.com/legitShivam/Debian)
 
 - 🌱 I’m currently learning **Rust, ReactJS**
@@ -41,6 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legitshivam&show_icons=true&locale=en&layout=compact" alt="legitshivam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legitshivam&show_icons=true&locale=en" alt="legitshivam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&" alt="legitshivam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legitshivam&show_icons=true&theme=dark&locale=en" alt="legitshivam" /></p>
