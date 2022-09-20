@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat" alt="legitshivam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legitshivam" alt="legitshivam" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/legitshivam" target="blank"><img src="https://img.shields.io/twitter/follow/legitshivam?logo=twitter&style=for-the-badge" alt="legitshivam" /></a> </p>
 
 - 🔭 I’m currently working on [Debin Congiurations](https://github.com/legitShivam/Debian)
