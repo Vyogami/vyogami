@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/legitshivam" target="blank"><img src="https://img.shields.io/twitter/follow/legitshivam?logo=twitter&style=for-the-badge" alt="legitshivam" /></a> </p>
 
-- 🔭 I’m currently working on [Debin Congiurations](https://github.com/legitShivam/Debian)
+- 🔭 I’m currently working on [Debian Confiurations](https://github.com/legitShivam/Debian)
 
 - 🌱 I’m currently learning **Rust, ReactJS**
 
