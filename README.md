@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [shivam.rf.gd](shivam.rf.gd)
 
-- 💬 Ask me about **Python,Bash Scripting, Linux**
+- 💬 Ask me about **Python, Bash Scripting, Linux**
 
 - 📫 How to reach me **shiv.05contact@gmail.com**
 
