@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/legitshivam](https://github.com/legitshivam)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/legitShivam?tab=repositories)
 
 - 📝 I regularly write articles on [legitshivam.in](legitshivam.in)
 
