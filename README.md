@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/legitshivam](https://github.com/legitshivam)
 
-- 📝 I regularly write articles on [shivam.rf.gd](shivam.rf.gd)
+- 📝 I regularly write articles on [legitshivam.in](legitshivam.in)
 
 - 💬 Ask me about **Python, Bash Scripting, Linux**
 
 - 📫 How to reach me **shiv.05contact@gmail.com**
 
-- 📄 Know about my experiences [shivam.rf.gd/portfolio.html](shivam.rf.gd/portfolio.html)
+- 📄 Know about my experiences [legitshivam.in](legitshivam.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
