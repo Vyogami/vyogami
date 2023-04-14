@@ -29,7 +29,12 @@ Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A t
 <br>
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true)
+
+<p float="left">
+
+  ![](https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true)
+</p>
+
 
 ### 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=legitShivam)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
