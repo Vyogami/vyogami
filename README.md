@@ -30,19 +30,16 @@ Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A t
 
 ### 📊 GitHub Stats
 
-<div class="container" style="display: flex; align-items: center;justify-content: center">
-  <div class="general-stats">
-    <img  width="400" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
-  </div>
- <div class="streak-stats" width="400" height="173.33" style="background-color: #282c34; border-radius: 3px;">
-    <img width="400" height="173.33" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
- </div>
-</div>
+<p float="center">
+ <img  width="400" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
+ <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
+</p>
 
 ### 🐦 Latest Tweet
 
-<img width="400" src="https://gtce.itsvg.in/api?username=legitShivam">
-
+<p float="center">
+  <img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam">
+</p>
 <details>
   <summary><h3>😂 Random Meme </h3></summary>
   <img src="https://rm.up.railway.app/" width="512"/>
