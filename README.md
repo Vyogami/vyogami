@@ -40,6 +40,11 @@ Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A t
 <p float="center">
   <img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam">
 </p>
+
+### 🎸 Recent Jams
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&redirect=true)
+
 <details>
   <summary><h3>😂 Random Meme </h3></summary>
   <img src="https://rm.up.railway.app/" width="512"/>
