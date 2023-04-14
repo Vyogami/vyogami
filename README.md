@@ -43,7 +43,9 @@ Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A t
 
 ### 🎸 Recent Jams
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&redirect=true">
+  <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+</a>
 
 <details>
   <summary><h3>😂 Random Meme </h3></summary>
