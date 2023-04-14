@@ -31,14 +31,14 @@ Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A t
 ### 📊 GitHub Stats
 
 <p float="center">
- <img  width="400" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
- <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
+ <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
+ <img width="400px" height="173.33px" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
 </p>
 
 ### 🐦 Latest Tweet
 
 <p float="center">
-  <img width="400" src="https://gtce.itsvg.in/api?username=legitShivam">
+  <img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam">
 </p>
 <details>
   <summary><h3>😂 Random Meme </h3></summary>
