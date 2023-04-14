@@ -47,7 +47,7 @@ Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A t
  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
 </p>
 
-### 🐦 Latest Tweet
+### <img src="./assets/twitter.png" width="24"> Latest Tweet
 
 <p float="center">
   <img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam">
