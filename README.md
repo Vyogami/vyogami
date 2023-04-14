@@ -1,12 +1,12 @@
-<img src="./assets/banner-with-outline.png">
+<img src="./assets/img/banner-with-outline.png">
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat" alt="legitshivam" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legitShivam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/legitShivam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legitShivam)
 
-<img src="./assets/greet.gif" width="25"> Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A tech-loving undergrad. I like to tinker with Linux, work on data science and web development. In my free time, I experiment in the kitchen (emphasis on "experiment") and binge-watch anime. But, I'm not just a foodie and anime fan; I'm also passionate about tech and believe in making a positive impact through open source projects. Want to connect or collaborate? Drop me a line!
+<img src="./assets/img/greet.gif" width="25"> Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A tech-loving undergrad. I like to tinker with Linux, work on data science and web development. In my free time, I experiment in the kitchen (emphasis on "experiment") and binge-watch anime. But, I'm not just a foodie and anime fan; I'm also passionate about tech and believe in making a positive impact through open source projects. Want to connect or collaborate? Drop me a line!
 
-### <img src="./assets/tech-stack.png" width="15"> Tech Stack
+### <img src="./assets/img/tech-stack.png" width="15"> Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -39,26 +39,26 @@
 
 <br>
 
-### <img src="./assets/stats.png" width="20"> GitHub Stats
+### <img src="./assets/img/stats.png" width="20"> GitHub Stats
 
 <p float="center">
  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
 </p>
 
-### <img src="./assets/twitter.png" width="24"> Latest Tweet
+### <img src="./assets/img/twitter.png" width="24"> Latest Tweet
 
 <p float="center">
   <img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam">
 </p>
 
-### <img src="./assets/headphone.png" width="15">  Recent Jams
+### <img src="./assets/img/headphone.png" width="15">  Recent Jams
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&redirect=true">
   <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
 </a>
 
 <details>
-  <summary><h3> <img src="./assets/smile.png" width="15">  Random Meme </h3></summary>
+  <summary><h3> <img src="./assets/img/smile.png" width="15">  Random Meme </h3></summary>
   <img src="https://rm.up.railway.app/" width="512"/>
 </details>
