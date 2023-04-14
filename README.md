@@ -4,8 +4,8 @@
 
 Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A tech-loving undergrad. I like to tinker with Linux, work on data science and web development. In my free time, I experiment in the kitchen (emphasis on "experiment") and binge-watch anime. But, I'm not just a foodie and anime fan; I'm also passionate about tech and believe in making a positive impact through open source projects. Want to connect or collaborate? Drop me a line!
 
-
 ### 🧰 Languages and Tools
+
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -31,16 +31,15 @@ Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A t
 ### 📊 GitHub Stats
 
 <p float="left">
-
-  ![](https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
 </p>
 
-
 ### 🐦 Latest Tweet
+
 [![](https://gtce.itsvg.in/api?username=legitShivam)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <details>
   <summary><h3>😂 Random Meme </h3></summary>
-  
   <img src="https://rm.up.railway.app/" width="512px"/>
 </details>
