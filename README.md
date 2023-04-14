@@ -1,4 +1,4 @@
-<img src="./assets/img/banner-with-outline.png">
+<img src="./assets/img/banner.png">
 
 ---
 
