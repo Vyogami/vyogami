@@ -1,15 +1,15 @@
-<img src="./assets/img/banner.png">
+![banner](./assets/img/banner.png)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat" alt="legitshivam" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legitShivam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/legitShivam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legitShivam)
+![Profile views](https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legitShivam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/legitShivam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legitShivam)
 
 <img src="./assets/img/greet.gif" width="25"> Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A tech-loving undergrad. I like to tinker with Linux, work on data science and web development. In my free time, I experiment in the kitchen (emphasis on "experiment") and binge-watch anime. But, I'm not just a foodie and anime fan; I'm also passionate about tech and believe in making a positive impact through open source projects. Want to connect or collaborate? Drop me a line!
 
-### <img src="./assets/img/tech-stack.png" width="15"> Tech Stack
+## <img src="./assets/img/tech-stack.png" width="15"> Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,8 +18,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 Frameworks and Tools
-
+## 🧰 Frameworks and Tools
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -37,22 +36,18 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-<br>
+## <img src="./assets/img/stats.png" width="20"> GitHub Stats
 
-### <img src="./assets/img/stats.png" width="20"> GitHub Stats
-
-<p float="center">
+<p>
  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
 </p>
 
-### <img src="./assets/img/twitter.png" width="24"> Latest Tweet
+## <img src="./assets/img/twitter.png" width="24"> Latest Tweet
 
-<p float="center">
-  <img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam">
-</p>
+<img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam">
 
-### <img src="./assets/img/headphone.png" width="15">  Recent Jams
+## <img src="./assets/img/headphone.png" width="15">  Recent Jams
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&redirect=true">
   <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
