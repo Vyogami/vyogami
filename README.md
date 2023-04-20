@@ -45,7 +45,7 @@
 
 ## <img src="./assets/img/twitter.png" width="24"> Latest Tweet
 
-<img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam">
+<a href="https://twitter.com/legitShivam"> <img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam"> </a>
 
 ## <img src="./assets/img/headphone.png" width="15">  Recent Jams
 
