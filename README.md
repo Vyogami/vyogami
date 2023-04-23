@@ -53,7 +53,9 @@
   <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
 </a>
 
+<!-- TODO: Fix the broken link
 <details>
   <summary><h3> <img src="./assets/img/smile.png" width="15">  Random Meme </h3></summary>
   <img src="https://rm.up.railway.app/" width="512"/>
 </details>
+-->
