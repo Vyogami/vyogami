@@ -39,8 +39,8 @@
 ## <img src="./assets/img/stats.png" width="20"> GitHub Stats
 
 <p>
-  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true">
-  <img width="400" height="173.33" src="https://github-readme-streak-stats.herokuapp.com/?user=legitshivam&theme=onedark&hide_border=true">
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&card_width=400">
+  <img width="400" src="https://streak-stats.demolab.com?user=legitShivam&theme=onedark&hide_border=true&card_width=420"
 </p>
 
 ## <img src="./assets/img/twitter.png" width="24"> Latest Tweet
