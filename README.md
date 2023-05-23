@@ -2,7 +2,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/legitShivam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/legitShivam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legitShivam)
+![Profile views](https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyogami) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vyogami) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vyogami)
 
 <img src="./assets/img/greet.gif" width="25"> Hey there, it's your friendly neighborhood CodeReaper, aka Shivam Shandilya. A tech-loving undergrad. I like to tinker with Linux, work on data science and web development. In my free time, I experiment in the kitchen (emphasis on "experiment") and binge-watch anime. But, I'm not just a foodie and anime fan; I'm also passionate about tech and believe in making a positive impact through open source projects. Want to connect or collaborate? Drop me a line!
 
@@ -39,13 +39,13 @@
 ## <img src="./assets/img/stats.png" width="20"> GitHub Stats
 
 <p>
-  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=legitshivam&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&card_width=400">
-  <img width="400" src="https://streak-stats.demolab.com?user=legitShivam&theme=onedark&hide_border=true&card_width=420"
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=vyogami&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&card_width=400">
+  <img width="400" src="https://streak-stats.demolab.com?user=vyogami&theme=onedark&hide_border=true&card_width=420"
 </p>
 
 ## <img src="./assets/img/twitter.png" width="24"> Latest Tweet
 
-<a href="https://twitter.com/legitShivam"> <img width="400px" src="https://gtce.itsvg.in/api?username=legitShivam"> </a>
+<a href="https://twitter.com/vyogami"> <img width="400px" src="https://gtce.itsvg.in/api?username=vyogami"> </a>
 
 ## <img src="./assets/img/headphone.png" width="15">  Recent Jams
 
