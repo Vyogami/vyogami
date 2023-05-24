@@ -5,7 +5,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyogami) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vyogami) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vyogami)
 
-<img src="./assets/img/greet.gif" width="25"> Hey there, it's Shivam Shandilya, a self-proclaimed Gagannaut (which is just a fancy way of saying I get lost a lot). I'm an undergrad who's obsessed with all things tech, especially `Linux`. When I'm not tinkering with my arch installation(Yes, I use arch btw), you'll find me forging some cool(imo) `data science` and `web dev` projects.
+<img src="./assets/img/greet.gif" width="25"> Hey there, it's Shivam Shandilya, a self-proclaimed Vyomanaut (which is just a fancy way of saying I get lost a lot). I'm an undergrad who's obsessed with all things tech, especially `Linux`. When I'm not tinkering with my arch installation(Yes, I use arch btw), you'll find me forging some cool(imo) `data science` and `web dev` projects.
 
 In my free time, I like to dabble in the culinary arts. And by "dabble," I mean I experiment in the kitchen with questionable results. Let's just say my dishes have a unique ability to surprise both my taste buds and the smoke detectors. But hey, who needs a boring predictable meal, right? It's all about keeping life exciting!
 
