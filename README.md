@@ -1,4 +1,5 @@
-![banner](./assets/img/astronaut-banner.png)
+![banner](./assets/img/astronaut-banner-light.png#gh-light-mode-only)
+![banner](./assets/img/astronaut-banner-dark.png#gh-dark-mode-only)
 
 ---
 
