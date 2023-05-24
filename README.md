@@ -10,7 +10,7 @@ In my free time, I like to dabble in the culinary arts. And by "dabble," I mean 
 
 Oh, and did I mention I'm an anime fanatic? I can binge-watch anime like nobody's business. My couch and I have a bond stronger than any superhero duo.
 
-But hey, I'm not just a master of chaos in the kitchen or an anime addict. I'm also passionate about tech and `open source` projects. I believe in making a positive impact, even if it means stumbling through lines of code like a clumsy penguin on ice🐧.
+But hey, I'm not just a master of chaos in the kitchen or an anime addict. I'm also passionate about tech and `open source` projects. I believe in making a positive impact, even if it means stumbling through lines of code like a clumsy penguin on ice <img src="./assets/img/penguin-bowing.gif" width="40">
 
 So, if you're up for some tech adventures, questionable cooking experiments, or just a good laugh, let's connect! Just don't expect me to find my way to the coffee machine without a map.
 
