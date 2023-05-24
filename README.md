@@ -1,4 +1,4 @@
-![banner](./assets/img/banner.png)
+![banner](./assets/img/astronaut-banner.png)
 
 ---
 
