@@ -54,7 +54,9 @@ So, if you're up for some tech adventures, questionable cooking experiments, or 
 
 ## <img src="./assets/img/twitter.png" width="24"> Latest Tweet
 
-<a href="https://twitter.com/vyogami"> <img width="400px" src="https://gtce.itsvg.in/api?username=vyogami"> </a>
+<a href="https://twitter.com/vyogami"> 
+  <img width="400px" src="https://gtce.itsvg.in/api?username=vyogami&theme=onedark&response=true&border=false&time=false&icon=default#gh-dark-mode-only">
+</a>
 
 ## <img src="./assets/img/headphone.png" width="15">  Recent Jams
 
