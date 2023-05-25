@@ -1,6 +1,8 @@
 ![banner](./assets/img/astronaut-banner-light.png#gh-light-mode-only)
 ![banner](./assets/img/astronaut-banner-dark.png#gh-dark-mode-only)
 
+<p align="center"> <i>/व्योगामि/ /vjoːɡaːmi/</i> <p>
+
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=legitshivam&label=Profile%20views&color=0e75b6&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyogami) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vyogami) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vyogami)
