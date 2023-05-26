@@ -51,7 +51,7 @@ So, if you're up for some tech adventures, questionable cooking experiments, or 
 
 <p>
   <img  width="400" src="https://github-readme-stats.vercel.app/api?username=vyogami&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&card_width=400">
-  <img width="400" src="https://streak-stats.demolab.com?user=vyogami&theme=onedark&hide_border=true&card_width=420"
+  <img width="400" src="https://streak-stats.demolab.com?user=vyogami&theme=onedark&hide_border=true&card_width=420">
 </p>
 
 ## <img src="./assets/img/twitter.png" width="24"> Latest Tweet
