@@ -9,13 +9,9 @@
 
 <img src="./assets/img/greet.gif" width="25"> Hey there, it's Shivam Shandilya, a self-proclaimed Vyomanaut (which is just a fancy way of saying I get lost a lot). I'm an undergrad who's obsessed with all things tech, especially `Linux` and when I'm not tinkering with my linux installation(I use arch btw), you'll find me forging some cool(imo) `data science` and `web dev` projects.
 
-In my free time, I like to dabble in the culinary arts. And by "dabble," I mean I experiment in the kitchen with questionable results. Let's just say my dishes have a unique ability to surprise both my taste buds and the smoke detectors. But hey, who needs a boring predictable meal, right? It's all about keeping life exciting!
+I'm also passionate about `open source` projects. I believe in making a positive impact, even if it means stumbling through lines of code like a clumsy penguin on ice <img src="./assets/img/penguin-bowing.gif" width="40">
 
-Oh, and did I mention I'm an anime fanatic? I can binge-watch anime like nobody's business. My couch and I have a bond stronger than any superhero duo.
-
-But hey, I'm not just a master of chaos in the kitchen or an anime addict. I'm also passionate about tech and `open source` projects. I believe in making a positive impact, even if it means stumbling through lines of code like a clumsy penguin on ice <img src="./assets/img/penguin-bowing.gif" width="40">
-
-So, if you're up for some tech adventures, questionable cooking experiments, or just a good laugh, let's connect! Just don't expect me to find my way to the coffee machine without a map.
+So, if you're up for some tech experiments, or just a good laugh, let's connect!
 
 ## <img src="./assets/img/tech-stack.png" width="15"> Tech Stack
 
