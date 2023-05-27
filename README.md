@@ -46,7 +46,7 @@ So, if you're up for some tech experiments, or just a good laugh, let's connect!
 ## <img src="./assets/img/stats.png" width="20"> GitHub Stats
 
 <p>
-  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=vyogami&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&card_width=400">
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=vyogami&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github&card_width=400">
   <img width="400" src="https://streak-stats.demolab.com?user=vyogami&theme=onedark&hide_border=true&card_width=420">
 </p>
 
