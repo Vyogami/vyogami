@@ -50,11 +50,11 @@ So, if you're up for some tech experiments, or just a good laugh, let's connect!
   <img width="400" src="https://streak-stats.demolab.com?user=vyogami&theme=onedark&hide_border=true&card_width=420">
 </p>
 
-## <img src="./assets/img/twitter.png" width="24"> Latest Tweet
+<!-- ## <img src="./assets/img/twitter.png" width="24"> Latest Tweet
 
 <a href="https://twitter.com/vyogami"> 
   <img width="400px" src="https://gtce.itsvg.in/api?username=vyogami&theme=onedark&response=true&border=false&time=false&icon=default#gh-dark-mode-only">
-</a>
+</a> -->
 
 ## <img src="./assets/img/headphone.png" width="15">  Recent Jams
 
