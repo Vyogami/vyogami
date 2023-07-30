@@ -12,9 +12,3 @@
 I'm also passionate about `open source` projects. I believe in making a positive impact, even if it means stumbling through lines of code like a clumsy penguin on ice <img src="./assets/img/penguin-bowing.gif" width="40">
 
 So, if you're up for some tech experiments, or just a good laugh, let's connect!
-
-## <img src="./assets/img/headphone.png" width="20">  Recent Jams
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&redirect=true">
-  <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=317etvzfyzlzpq537kptm27sloby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
-</a>
