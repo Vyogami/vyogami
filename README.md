@@ -1,5 +1,5 @@
-![banner](./assets/img/astronaut-banner-light.png#gh-light-mode-only)
-![banner](./assets/img/astronaut-banner-dark.png#gh-dark-mode-only)
+![banner](./assets/img/astronaut-banner-light.webp#gh-light-mode-only)
+![banner](./assets/img/astronaut-banner-dark.webp#gh-dark-mode-only)
 
 <p align="center"> <i>/व्योगामि/ /vjoːɡaːmi/</i> <p>
 
