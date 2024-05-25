@@ -11,4 +11,4 @@
 
 I'm also passionate about `open source` projects. I believe in making a positive impact, even if it means stumbling through lines of code like a clumsy penguin on ice <img src="./assets/img/penguin-bowing.gif" width="40">
 
-So, if you're up for some tech experiments, or just a good laugh, let's connect!
+So, if you're up for some tech experiments, or just a good laugh just hit me up!
